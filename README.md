@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Thomas Valkenburg
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C#, Javascript, Swift, HTML, CSS, LUA and some more!
-- 📫 You can reach me on discord: Thomas V#1582
+- 📫 You can reach me on discord: ths_v
